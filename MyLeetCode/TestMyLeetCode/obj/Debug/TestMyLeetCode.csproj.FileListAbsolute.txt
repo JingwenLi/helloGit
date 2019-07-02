@@ -1,0 +1,27 @@
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csprojResolveAssemblyReference.cache
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.dll
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.pdb
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.exe
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.pdb
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.dll
+C:\Users\LJW831\Documents\Visual Studio 2015\Projects\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.pdb
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.pdb
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.exe
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.pdb
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.exe.config
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csprojAssemblyReference.cache
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.CoreCompileInputs.cache
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.CopyComplete
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.dll
+C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.pdb
