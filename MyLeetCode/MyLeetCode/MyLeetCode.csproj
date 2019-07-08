@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyAction.cs" />
+    <Compile Include="MyClasses.cs" />
+    <Compile Include="MyEvent.cs" />
+    <Compile Include="MyFunc.cs" />
+    <Compile Include="MyTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Solution11.cs" />
     <Compile Include="Solution139.cs" />
