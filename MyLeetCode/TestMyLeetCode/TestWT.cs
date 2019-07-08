@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace TestMyLeetCode
 {
     [TestClass]
-    public class TestWiseTeach1
+    public class TestWT
     {
 
         [DataTestMethod]
@@ -92,7 +92,7 @@ namespace TestMyLeetCode
 
         public void TestMethod260(string inputStr,string outStr)
         {
-            Assert.AreEqual(outStr,(new WiseTeach1()).TransferNums(inputStr).Trim());
+            Assert.AreEqual(outStr,(new WT()).TransferNums(inputStr).Trim());
         }
     }
 }

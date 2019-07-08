@@ -52,7 +52,7 @@
     <Compile Include="Solution5.cs" />
     <Compile Include="Solution75.cs" />
     <Compile Include="Solution79.cs" />
-    <Compile Include="WiseTeach1.cs" />
+    <Compile Include="WT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

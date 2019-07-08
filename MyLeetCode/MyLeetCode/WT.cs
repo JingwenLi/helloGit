@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyLeetCode
 {
-    public class WiseTeach1
+    public class WT
     {
         string[] nums; 
 
