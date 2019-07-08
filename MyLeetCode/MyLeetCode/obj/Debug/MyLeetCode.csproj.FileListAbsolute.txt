@@ -12,3 +12,7 @@ C:\ljw\MyLeetCode\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csproj.CoreCompileI
 C:\ljw\MyLeetCode\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.exe
 C:\ljw\MyLeetCode\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.pdb
 C:\ljw\MyLeetCode\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csprojAssemblyReference.cache
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csprojAssemblyReference.cache
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csproj.CoreCompileInputs.cache
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.exe
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.pdb
