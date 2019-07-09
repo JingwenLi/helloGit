@@ -11,8 +11,7 @@ namespace MyLeetCode
     {
         public static void Main()
         {
-            MyOutRef my = new MyOutRef();
-            my.Run();
+
         }
     }
 }
