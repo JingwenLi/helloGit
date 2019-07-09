@@ -98,12 +98,4 @@ namespace MyLeetCode.MyDesignModel
             return _hungerSingleton;
         }
     }
-
-    public class My
-    {
-        public void Run()
-        {
-            volatile int i2;
-        }
-    }
 }
