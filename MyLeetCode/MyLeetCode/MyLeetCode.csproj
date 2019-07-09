@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DoNet\MyAction.cs" />
-    <Compile Include="DoNet\MyClasses.cs" />
-    <Compile Include="DoNet\MyEvent.cs" />
-    <Compile Include="DoNet\MyFunc.cs" />
-    <Compile Include="DoNet\MyOutRef.cs" />
-    <Compile Include="DoNet\MyTask.cs" />
+    <Compile Include="MyDoNet\MyAction.cs" />
+    <Compile Include="MyDoNet\MyClasses.cs" />
+    <Compile Include="MyDoNet\MyEvent.cs" />
+    <Compile Include="MyDoNet\MyFunc.cs" />
+    <Compile Include="MyDoNet\MyOutRef.cs" />
+    <Compile Include="MyDoNet\MyTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="LeetCode\Solution11.cs" />
     <Compile Include="LeetCode\Solution139.cs" />
@@ -58,10 +58,13 @@
     <Compile Include="LeetCode\Solution5.cs" />
     <Compile Include="LeetCode\Solution75.cs" />
     <Compile Include="LeetCode\Solution79.cs" />
-    <Compile Include="WT.cs" />
+    <Compile Include="LeetCode\WT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MyDesignModel\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
