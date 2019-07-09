@@ -43,20 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyAction.cs" />
-    <Compile Include="MyClasses.cs" />
-    <Compile Include="MyEvent.cs" />
-    <Compile Include="MyFunc.cs" />
-    <Compile Include="MyTask.cs" />
+    <Compile Include="DoNet\MyAction.cs" />
+    <Compile Include="DoNet\MyClasses.cs" />
+    <Compile Include="DoNet\MyEvent.cs" />
+    <Compile Include="DoNet\MyFunc.cs" />
+    <Compile Include="DoNet\MyOutRef.cs" />
+    <Compile Include="DoNet\MyTask.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Solution11.cs" />
-    <Compile Include="Solution139.cs" />
-    <Compile Include="Solution334.cs" />
-    <Compile Include="Solution260.cs" />
+    <Compile Include="LeetCode\Solution11.cs" />
+    <Compile Include="LeetCode\Solution139.cs" />
+    <Compile Include="LeetCode\Solution334.cs" />
+    <Compile Include="LeetCode\Solution260.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Solution5.cs" />
-    <Compile Include="Solution75.cs" />
-    <Compile Include="Solution79.cs" />
+    <Compile Include="LeetCode\Solution5.cs" />
+    <Compile Include="LeetCode\Solution75.cs" />
+    <Compile Include="LeetCode\Solution79.cs" />
     <Compile Include="WT.cs" />
   </ItemGroup>
   <ItemGroup>

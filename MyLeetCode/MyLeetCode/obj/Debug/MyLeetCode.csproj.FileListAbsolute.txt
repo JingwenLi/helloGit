@@ -16,3 +16,6 @@ C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csprojAssemblyRef
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csproj.CoreCompileInputs.cache
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.exe
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.pdb
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.exe.config
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.exe
+C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.pdb
