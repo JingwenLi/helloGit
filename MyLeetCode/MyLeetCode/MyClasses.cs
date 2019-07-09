@@ -52,8 +52,6 @@ namespace MyLeetCode
         }
 
 
-
-
         public class A
         {
             public virtual void F()
