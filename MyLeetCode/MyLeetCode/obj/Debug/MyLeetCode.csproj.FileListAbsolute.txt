@@ -19,3 +19,7 @@ C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.pdb
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.exe.config
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.exe
 C:\ljw\git\helloGit\MyLeetCode\MyLeetCode\bin\Debug\MyLeetCode.pdb
+E:\My Project\Git Project\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csprojAssemblyReference.cache
+E:\My Project\Git Project\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.csproj.CoreCompileInputs.cache
+E:\My Project\Git Project\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.exe
+E:\My Project\Git Project\helloGit\MyLeetCode\MyLeetCode\obj\Debug\MyLeetCode.pdb

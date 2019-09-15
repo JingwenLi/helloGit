@@ -25,3 +25,20 @@ C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.Core
 C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.CopyComplete
 C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.dll
 C:\ljw\MyLeetCode\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.pdb
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\TestMyLeetCode.pdb
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.exe
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.pdb
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\bin\Debug\MyLeetCode.exe.config
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.CoreCompileInputs.cache
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.csproj.CopyComplete
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.dll
+E:\My Project\Git Project\helloGit\MyLeetCode\TestMyLeetCode\obj\Debug\TestMyLeetCode.pdb

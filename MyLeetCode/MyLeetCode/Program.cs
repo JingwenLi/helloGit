@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Limilabs.Client.IMAP;
+using Limilabs.Mail;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;

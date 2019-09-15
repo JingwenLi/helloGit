@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ljw\\git\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj": {}
+    "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj": {}
   },
   "projects": {
-    "C:\\ljw\\git\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj": {
+    "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ljw\\git\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj",
+        "projectUniqueName": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj",
         "projectName": "MyLeetCode",
-        "projectPath": "C:\\ljw\\git\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj"
+        "projectPath": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj"
       },
       "frameworks": {
         "net452": {}
       }
     },
-    "C:\\ljw\\git\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj": {
+    "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ljw\\git\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj",
+        "projectUniqueName": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj",
         "projectName": "TestMyLeetCode",
-        "projectPath": "C:\\ljw\\git\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\ljw\\git\\helloGit\\MyLeetCode\\TestMyLeetCode\\obj\\",
+        "projectPath": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\TestMyLeetCode\\TestMyLeetCode.csproj",
+        "packagesPath": "C:\\Users\\LJW831\\.nuget\\packages\\",
+        "outputPath": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\TestMyLeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LJW831\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,8 +39,8 @@
         "frameworks": {
           "net452": {
             "projectReferences": {
-              "C:\\ljw\\git\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj": {
-                "projectPath": "C:\\ljw\\git\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj"
+              "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj": {
+                "projectPath": "E:\\My Project\\Git Project\\helloGit\\MyLeetCode\\MyLeetCode\\MyLeetCode.csproj"
               }
             }
           }
