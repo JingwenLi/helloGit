@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyLeetCode
 {
@@ -25,6 +22,22 @@ namespace MyLeetCode
             {
                 return nums.GroupBy(x => x).Where(x => x.Count() == 1).Select(x => x.Key).ToArray();
             }
+        }
+    }
+
+
+    [TestClass]
+    public class TestSolution260
+    {
+        [TestMethod]
+        public void TestMethod()
+        {
+            int[] num22s = new int[2];
+            int[] nums = { 1, 2, 1, 3, 2, 5 };
+            int[] exceptResult = { 3, 5 };
+            int[] result = (new Solution260.Solution()).SingleNumber(nums);
+
+            Assert.AreEqual(0, exceptResult.Except(result).Count());
         }
     }
 }

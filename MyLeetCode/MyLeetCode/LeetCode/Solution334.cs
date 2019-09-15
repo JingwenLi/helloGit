@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyLeetCode
 {
@@ -38,26 +34,43 @@ namespace MyLeetCode
                         a = nums[0];
                         continue;
                     }
-                    if (nums[i] < a) {
+                    if (nums[i] < a)
+                    {
                         a = nums[i];
                         continue;
                     }
-                    if ( a < nums[i] && b == null)
+                    if (a < nums[i] && b == null)
                     {
                         b = nums[i];
                         continue;
                     }
-                    if (b != null && nums[i] > a && nums[i] < b )
+                    if (b != null && nums[i] > a && nums[i] < b)
                     {
                         b = nums[i];
                         continue;
                     }
-                    if ( b != null && nums[i] > a  && nums[i] > b) {
+                    if (b != null && nums[i] > a && nums[i] > b)
+                    {
                         return true;
                     }
                 }
                 return false;
             }
+        }
+    }
+
+
+    [TestClass]
+    public class TestSolution334
+    {
+        [TestMethod]
+        public void TestMethod()
+        {
+            // int[] nums = { 2,4,-2,-3 };
+            int[] nums = { 2, 5, 3, 4, 5 };  //true
+            bool result = (new Solution334.Solution()).IncreasingTriplet(nums);
+
+            Assert.IsTrue(result);
         }
     }
 }
