@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyTraining.MyDoNet
 {
-    class MyNewClass
+    partial class MyNewClass
     {
         class A
         {
@@ -16,7 +16,7 @@ namespace MyTraining.MyDoNet
         }
 
         /// <summary>
-        /// 静态绑定（编译时绑定）
+        /// 编译时绑定（根据声明类型调用方法）
         /// </summary>
         public static void Run()
         {

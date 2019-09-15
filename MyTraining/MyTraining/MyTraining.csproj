@@ -49,6 +49,7 @@
     <Compile Include="MyDoNet\MyAction.cs" />
     <Compile Include="MyDoNet\MyNewClass.cs" />
     <Compile Include="MyDoNet\MyVirtualClass.cs" />
+    <Compile Include="MyDoNet\MyVirtualClass_1.cs" />
     <Compile Include="MyDoNet\MyEvent.cs" />
     <Compile Include="MyDoNet\MyFunc.cs" />
     <Compile Include="MyDoNet\MyOutRef.cs" />
