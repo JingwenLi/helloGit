@@ -7,8 +7,8 @@
     <ProjectGuid>{19078193-4430-4459-9056-001BF45EB888}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyLeetCode</RootNamespace>
-    <AssemblyName>MyLeetCode</AssemblyName>
+    <RootNamespace>MyTraining</RootNamespace>
+    <AssemblyName>MyTraining</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,6 +53,7 @@
     <Compile Include="MyDoNet\MyFunc.cs" />
     <Compile Include="MyDoNet\MyOutRef.cs" />
     <Compile Include="MyDoNet\MyTask.cs" />
+    <Compile Include="MyDoNet\MyVirtualClass_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="LeetCode\Solution11.cs" />
     <Compile Include="LeetCode\Solution139.cs" />

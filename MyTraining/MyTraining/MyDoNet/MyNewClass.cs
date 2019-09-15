@@ -21,10 +21,10 @@ namespace MyTraining.MyDoNet
         public static void Run()
         {
             A a = new A();
-            a.Draw();  //A
+            a.Draw();   //A
 
             B b = new B();
-            b.Draw();  //B
+            b.Draw();   //B
 
             A a1 = new B();
             a1.Draw();  //A
