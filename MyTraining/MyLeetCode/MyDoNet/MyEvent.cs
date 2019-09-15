@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLeetCode
+namespace MyTraining.MyDoNet
 {
     class MyEvent
     {

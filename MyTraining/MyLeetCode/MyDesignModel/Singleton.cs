@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLeetCode.MyDesignModel
+namespace MyTraining.MyDesignModel
 {
     //非线程安全
     public class Singleton

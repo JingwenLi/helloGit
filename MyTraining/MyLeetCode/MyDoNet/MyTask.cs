@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLeetCode
+namespace MyTraining.MyDoNet
 {
     /**
         action委托指向的方法没有返回值

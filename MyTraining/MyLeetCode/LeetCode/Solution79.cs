@@ -22,7 +22,7 @@ using System.Threading.Tasks;
 //    给定 word = "ABCB", 返回 false.
 
 
-namespace MyLeetCode
+namespace MyTraining.MyLeetCode
 {
 
     //char[][] board = new char[3][] {

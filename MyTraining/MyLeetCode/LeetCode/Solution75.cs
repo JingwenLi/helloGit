@@ -21,7 +21,7 @@ using System.Threading.Tasks;
 //你能想出一个仅使用常数空间的一趟扫描算法吗？
 
 
-namespace MyLeetCode
+namespace MyTraining.MyLeetCode
 {
     public class Solution75
     {

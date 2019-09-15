@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MyLeetCode
+namespace MyTraining.MyLeetCode
 {
     //334. 递增的三元子序列
 

@@ -2,7 +2,7 @@
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MyLeetCode
+namespace MyTraining.MyLeetCode
 {
     public class WT
     {
