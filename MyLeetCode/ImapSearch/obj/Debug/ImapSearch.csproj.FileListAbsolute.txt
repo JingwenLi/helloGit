@@ -1,9 +1,0 @@
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\bin\Debug\ImapSearch.exe
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\bin\Debug\ImapSearch.pdb
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\bin\Debug\Mail.dll
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\bin\Debug\Mail.xml
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\obj\Debug\ImapSearch.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\obj\Debug\ImapSearch.csproj.CopyComplete
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\obj\Debug\ImapSearch.exe
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\obj\Debug\ImapSearch.pdb
-C:\Users\Administrator\Downloads\Mail\Examples\VS2017\ImapSearch\obj\Debug\ImapSearch.csprojAssemblyReference.cache
