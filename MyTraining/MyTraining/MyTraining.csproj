@@ -48,6 +48,9 @@
     <Compile Include="MyDesignModel\Singleton.cs" />
     <Compile Include="MyDoNet\MyAbstractClass.cs" />
     <Compile Include="MyDoNet\MyAction.cs" />
+    <Compile Include="MyDoNet\MyBoxing.cs" />
+    <Compile Include="MyDoNet\MyDelegate.cs" />
+    <Compile Include="MyDoNet\MyDynamic.cs" />
     <Compile Include="MyDoNet\MyNewClass.cs" />
     <Compile Include="MyDoNet\MyVirtualClass.cs" />
     <Compile Include="MyDoNet\MyVirtualClass_1.cs" />
